@@ -1,0 +1,16 @@
+C:\Users\Higor\Desktop\Dev\SuperDEV\CSharp\Property\bin\Debug\Property.exe.config
+C:\Users\Higor\Desktop\Dev\SuperDEV\CSharp\Property\bin\Debug\Property.exe
+C:\Users\Higor\Desktop\Dev\SuperDEV\CSharp\Property\bin\Debug\Property.pdb
+C:\Users\Higor\Desktop\Dev\SuperDEV\CSharp\Property\obj\Debug\Property.csproj.AssemblyReference.cache
+C:\Users\Higor\Desktop\Dev\SuperDEV\CSharp\Property\obj\Debug\Property.csproj.SuggestedBindingRedirects.cache
+C:\Users\Higor\Desktop\Dev\SuperDEV\CSharp\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\Higor\Desktop\Dev\SuperDEV\CSharp\Property\obj\Debug\Property.exe
+C:\Users\Higor\Desktop\Dev\SuperDEV\CSharp\Property\obj\Debug\Property.pdb
+C:\Users\Higor\Source\Repos\Property\bin\Debug\Property.exe.config
+C:\Users\Higor\Source\Repos\Property\bin\Debug\Property.exe
+C:\Users\Higor\Source\Repos\Property\bin\Debug\Property.pdb
+C:\Users\Higor\Source\Repos\Property\obj\Debug\Property.csproj.AssemblyReference.cache
+C:\Users\Higor\Source\Repos\Property\obj\Debug\Property.csproj.SuggestedBindingRedirects.cache
+C:\Users\Higor\Source\Repos\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\Higor\Source\Repos\Property\obj\Debug\Property.exe
+C:\Users\Higor\Source\Repos\Property\obj\Debug\Property.pdb
